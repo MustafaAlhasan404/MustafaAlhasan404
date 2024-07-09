@@ -7,8 +7,6 @@
  <a href="https://www.instagram.com/mustafa_alhasan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
 </p>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
-
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Tech Stack
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
